@@ -1,4 +1,4 @@
-# 🎯  UTM Digital Open Day
+# ✨ UTM Digital Open Day ✨
 
 **📅 Date:** 29 October 2025
 
@@ -20,8 +20,15 @@
     - Minimize misunderstandings
     - Enable faster and more effective decision-making
     - Strengthen collaboration among team members
- 
+- We also visit several industries booth such as
+    - Dell
+    - Microcorp
+    - D-Ron
+  
 ---
+
+## Reflection
+From this talk, 
 
 
 
