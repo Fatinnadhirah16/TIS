@@ -28,7 +28,7 @@
 ---
 
 ## 💡 Reflection
-From this talk, I got valuable information about how to manage team projects which can be practised during my studies, helping me understand the importance of teamwork, communication and consistent progress.
+From this talk, I got valuable information about how to manage team projects which can be practised during my studies, in managing group assignment more effectively. It helped me to understand better the importance of teamwork, communication and consistent progress.
 
 
 
