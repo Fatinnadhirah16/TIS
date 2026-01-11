@@ -28,7 +28,7 @@
 ---
 
 ## 💡 Reflection
-From this talk, 
+From this talk, I got valuable information about how to manage team projects which can be practised during my studies, helping me understand the importance of teamwork, communication and consistent progress.
 
 
 
