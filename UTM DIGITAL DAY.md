@@ -2,6 +2,8 @@
 
 **📅 Date:** 29 October 2025
 
+**🕙Time:** 10:15 – 11:15 a.m.  
+
 **📍 Venue:**  Dewan Seminar UTM Digital, Level 4
 
 ---
