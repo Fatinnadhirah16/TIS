@@ -11,7 +11,7 @@
 ## 🎤 Industry Talk: System Development
 **Speaker:** Helmee bin Yaacob (Senior IT Officer)
 
-### Summary
+### 🗒️ Summary
 
 - Gained exposure to system development practices used in real industry projects
 - Learned how Agile methodology is applied to manage team-based projects effectively
@@ -27,7 +27,7 @@
   
 ---
 
-## Reflection
+## 💡 Reflection
 From this talk, 
 
 
