@@ -32,5 +32,5 @@ From this talk, I got valuable information about how to manage team projects whi
 
 
 
-![WhatsApp Image 2026-01-13 at 20 33 33](https://github.com/user-attachments/assets/880ba82e-d833-4a2b-a7cc-0e615d58c0e1)
+
 
