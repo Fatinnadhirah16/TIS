@@ -12,5 +12,5 @@ This PPG industry talk was held online via Webex. The industry talk to introduce
 ---
 
 ![WhatsApp Image 2026-01-17 at 00 51 41](https://github.com/user-attachments/assets/124ff6a1-4d94-4386-97c0-c335fe04f45a)
-6](https://github.com/user-attachments/assets/bf665ed4-1baa-4859-b5c9-65dd70087b95)
 ![WhatsApp Image 2026-01-17 at 01 01 2![WhatsApp Image 2026-01-17 at 00 51 40 (1)](https://github.com/user-attachments/assets/e331a63b-d0d4-4282-88bc-64fee93ba889)
+![WhatsApp Image 2026-01-17 at 01 01 26](https://github.com/user-attachments/assets/d30eb18c-839f-435f-a686-fad2d37c2891)
