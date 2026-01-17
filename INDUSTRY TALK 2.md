@@ -11,7 +11,5 @@ Attending the industry talk on project management and system development provide
 
 ---
 
-![WhatsApp Image 2026-01-17 at 13 32 33](https://github.com/user-attachments/assets/9a3c7833-e4cf-4c2f-b758-cff38a6c93ed)
-
-
+![WhatsApp Image 2026-01-07 at 20 04 55](https://github.com/user-attachments/assets/d335a09c-7521-4cd2-af8a-9c0cf96afd04)
 
