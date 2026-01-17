@@ -25,6 +25,6 @@ The process of drug produg:
 
 ![WhatsApp Image 2026-01-17 at 13 28 04 (1)](https://github.com/user-attachments/assets/7344b918-8c0e-4d5d-b98a-3fc8cd470be8)
 ![WhatsApp Image 2026-01-17 at 13 28 04](https://github.com/user-attachments/assets/4a3fc58c-a800-4471-ab3e-3226ab2700ba)
-![WhatsApp Image 2026-01-17 at 13 17 23](https://github.com/user-attachments/assets/e18da813-564d-4a7e-9ed4-86a9defa9275)
+![WhatsApp Image 2026-01-17 at 13 32 33](https://github.com/user-attachments/assets/8c8ed62b-2549-4bec-af63-252249320db1)
 ![WhatsApp Image 2026-01-17 at 13 17 53](https://github.com/user-attachments/assets/dad68321-e282-490e-8496-f731923cbbea)
 ![WhatsApp Image 2026-01-17 at 13 18 13](https://github.com/user-attachments/assets/f140ca81-cb25-4da2-aadc-84f074ecb9d2)
