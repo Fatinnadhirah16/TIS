@@ -21,5 +21,5 @@ The process of drug produg:
 
 📦Packing
 - Consist of penassembly and penpacking
-- 
+  
 
