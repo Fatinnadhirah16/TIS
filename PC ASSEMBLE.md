@@ -1,6 +1,6 @@
 # 💻 PC Assembly
 
-**📅 Date: 12 November 2025
+**📅 Date:** 12 November 2025
 
 ---
 
