@@ -1,8 +1,8 @@
 # 📊⚙️Project Management and System Development
 
-**📅Date:**18 December 2025
+**📅Date:** 18 December 2025
 
-**🕙Time:**2:00 P.M.
+**🕙Time:** 2:00 P.M.
 
 ---
 
