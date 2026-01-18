@@ -1,9 +1,7 @@
 # 🏭 INDUSTRY VISIT (BIOCON)
 
-📅Date: 23 December 2025
-
-📌Venue: Biocon Sdn. Bhd, Iskandar Puteri
-
+**📅Date:** 23 December 2025
+**📌Venue:** Biocon Sdn. Bhd, Iskandar Puteri
 
 ---
 
