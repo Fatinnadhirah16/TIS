@@ -4,7 +4,7 @@
 
 ---
 
-# ✨ Reflection
+# ✨Reflection
 
 
 
@@ -12,7 +12,7 @@
 
 
 ---
-##Report
+# Report
 
 [Design Thinking Report pdf (Group 7).pdf](https://github.com/user-attachments/files/24693005/Design.Thinking.Report.pdf.Group.7.pdf)
 
