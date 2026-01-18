@@ -2,7 +2,6 @@
 
 ## Theme: Digital Solutions for the Autism & ADHD Community
 
----
 👨‍👩‍👧 AutiCare Connect is an online consultation platform developed to address the challenges faced by parents seeking autism therapy for their children. Individuals with Autism Spectrum Disorder (ASD) often require continuous guidance from therapists, but traditional therapy services can be difficult to access due to distance, cost, long waiting lists, and time constraints.
 
 Using a Design Thinking approach, this project focused on understanding the needs of both parents and therapists, empathizing with the challenges in current therapy sessions, and identifying opportunities for improvement. Through ideation and prototyping, the platform was designed to provide multi-camera online consultations, enabling therapists to observe children from multiple angles, improving session quality and therapeutic effectiveness.
