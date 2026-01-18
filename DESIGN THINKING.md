@@ -19,6 +19,7 @@ Overall, this project helped me develop skills such as planning, teamwork, creat
 # Design Thinking Report & Video
 
 [Design Thinking Report pdf (Group 7).pdf](https://github.com/user-attachments/files/24693005/Design.Thinking.Report.pdf.Group.7.pdf)
+
 https://drive.google.com/file/d/16WYIv4rfa5Zeb2l3WMXTfNQvVF3mK6Qz/view?usp=sharing
 
 
