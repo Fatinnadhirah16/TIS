@@ -1,4 +1,4 @@
-#🌐PPG Industry Talk
+# 🌐PPG Industry Talk
 
 **📅 Date: 20 November 2025
 
