@@ -1,4 +1,4 @@
-# 🏭 BIOCON
+# 🏭 INDUSTRY VISIT (BIOCON)
 
 **📅Date: 23 December 2025
 
