@@ -30,6 +30,10 @@
 ## 💡 Reflection
 From this talk, I got valuable information about how to manage team projects which can be practised during my studies, in managing group assignment more effectively. It helped me to understand better the importance of teamwork, communication and consistent progress.
 
+---
+## Video and Pictures
+
+📽️: https://youtu.be/KEKFc0wy8Kg
 
 ![WhatsApp Image 2026-01-17 at 00 44 28 (1)](https://github.com/user-attachments/assets/33a139bc-3a01-4245-b574-a74cffce2574)
 ![WhatsApp Image 2026-01-17 at 00 44 27](https://github.com/user-attachments/assets/eb2e5863-0d01-487b-8173-fb3e8b59939a)
